@@ -1,0 +1,19 @@
+import HautevilleHouse.AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean.BridgeGateLemmas
+import HautevilleHouse.AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean.ANRMathlibObjects
+import HautevilleHouse.AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean.ExtensionPropertyLayer
+import HautevilleHouse.AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean.RetractionLayer
+import HautevilleHouse.AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean
+
+-- This module is the root of the ANR/AE Lean proof package.
+
+def sourceRepository : String := "absolute-neighborhood-extensor-absolute-extensor-canonical-lane"
+def sourceDescription : String := "Absolute Neighborhood Extensor / Absolute Extensor canonical lane theorem"
+
+def sourceTheoremBoundary : String := "unrestricted classical ANR/AE theorem stack remains outside this admitted Lean layer"
+
+end AbsoluteNeighborhoodExtensorAbsoluteExtensorCanonicalLaneLean
+end HautevilleHouse
